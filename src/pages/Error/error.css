@@ -1,0 +1,38 @@
+
+
+.error{
+    display: flex;
+    flex-direction: column;
+    width: 200;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: rgb(3, 2, 2);
+}
+
+.error h1{
+    margin-bottom: 6px;    
+}
+
+
+.error p{
+    font-style: italic;
+}
+
+.error .link {
+    background-color: rgb(250, 244, 244);
+    padding: 2px;
+    margin-top: 14px;
+    border-radius: 8px;
+    color: black;
+    transition: background-color 0.5s;
+    
+    
+}
+
+.error .link:hover{
+    background-color: rgb(243, 243, 248);
+    transform: scale(1.05);
+    
+    
+}

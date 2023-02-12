@@ -1,0 +1,16 @@
+
+.logo{
+    margin-top: 50px;
+    margin-bottom: 80px;
+    color: rgb(9, 20, 179);
+    font-size: 54px;
+}
+
+.logo-text{
+    background: linear-gradient(rgb(217, 240, 14), rgb(201, 241, 21));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 90px;
+    
+}
